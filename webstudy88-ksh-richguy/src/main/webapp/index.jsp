@@ -14,12 +14,11 @@
 	src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
 <script
 	src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"></script>
-<title>ajax study</title>
+<title>index</title>
 </head>
 <body>
 <div class="container pt-3">
-<a href="step1-syn.jsp">동기 통신</a><br><br>
-<a href="step2-asyn.jsp">비동기 통신</a>
+test1 ksh
 </div>
 </body>
 </html>
